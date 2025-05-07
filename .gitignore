@@ -1,1 +1,3 @@
 .vagrant/
+.secret
+*/.terraform/*
