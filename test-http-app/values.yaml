@@ -1,0 +1,11 @@
+image:
+  repository: nginxdemos/hello
+  tag: 0.4
+  pullPolicy: IfNotPresent
+
+service:
+  port: 80
+  type: ClusterIP
+
+labels:
+  app: test-app-http
