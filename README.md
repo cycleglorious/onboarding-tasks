@@ -1,0 +1,1 @@
+1.3) packer+ansible - build image using the ansible role on aws (https://github.com/dev-sec/ansible-collection-hardening/tree/master/roles/os_hardening)
