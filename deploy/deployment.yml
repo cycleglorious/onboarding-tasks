@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: simple-app
-          image: glocycle/simple-app:0.0.2
+          image: glocycle/simple-app:0.0.3
           ports:
             - containerPort: 5000
 ---
