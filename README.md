@@ -1,0 +1,1 @@
+eks+terraform - bring up EKS cluster using terraform (https://registry.terraform.io/modules/terraform-aws-modules/eks/aws/latest)
